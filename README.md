@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Isaac Araya Solano, I'm 23 years old and I'm currently a Software Engineering Student at the Costa Rican Institute of Technology.
+I'm Isaac Araya Solano, I'm 23 years old and I'm currently a Computer Engineering Student at the Costa Rican Institute of Technology.
 
 I'm currently learning to create databases, develop web sites and how to analyze the algorithms I code for them to be as efficient as possible.
 Also I'm now starting to learn how to program and develop videogames with Unity. 
