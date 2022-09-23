@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Isaac4918/Isaac4918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Isaac Araya Solano, a computer engineering student at the Costa Rican Institute of Technology. 
 
-Here are some ideas to get you started:
+I'm currently learning to create databases, develop web sites and how to analyze the algorithms I code for them to be as efficient as possible.
+Also I'm now interested in starting learning to program and develop videogames with Unity. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have some experience in Python, Java, C++, C#, SQL and a little experience on React and Javascript. You can check some of my work on my repositories.
+
+I'm looking to collaborate on projects from different areas to learn as much as possible about technology and software development in order to become the best professional I can be.
+
+How to reach me:
+E-mail: isaac4918@gmail.com
+LinkedIn: https://www.linkedin.com/in/isaac-araya-b70951238/
