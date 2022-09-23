@@ -12,4 +12,4 @@ I'm looking to collaborate on projects from different areas to learn as much as 
 
 How to reach me:
 E-mail: isaac4918@gmail.com
-LinkedIn: https://www.linkedin.com/in/isaac-araya-b70951238/
+LinkedIn: www.linkedin.com/in/isaac-araya-solano-b70951238/
