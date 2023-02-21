@@ -8,6 +8,6 @@
 <a href="https://www.linkedin.com/in/isaac-araya-solano-b70951238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isaacaraya" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <a href="https://www.gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/38987656/220407870-68bd017a-a1cd-46e7-b34a-92392b208be7.png" alt="Gmail" width="40" height="30"/></a> isaac4918@gmail.com</p>
+<p align="left"> <a href="https://www.gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/38987656/220407870-68bd017a-a1cd-46e7-b34a-92392b208be7.png" alt="Gmail" width="40" height="30"/></a>   isaac4918@gmail.com</p>
 
 LinkedIn: www.linkedin.com/in/isaac-araya-solano-b70951238/
