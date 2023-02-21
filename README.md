@@ -9,6 +9,6 @@
 </p>
 
 <p align="left"> <img src="https://user-images.githubusercontent.com/38987656/220407870-68bd017a-a1cd-46e7-b34a-92392b208be7.png" alt="cplusplus" width="20" height="15"/> </p> 
-**isaac4918@gmail.com** 
+**isaac4918@gmail.com
 
 LinkedIn: www.linkedin.com/in/isaac-araya-solano-b70951238/
