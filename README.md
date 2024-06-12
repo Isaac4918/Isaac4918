@@ -1,7 +1,11 @@
 <h1>Hi there!👋🏾 I'm Isaac!</h1>
 <h3>I'm a Software Engineering Student in the Costa Rican Institute of Technology.</h3>
 
-<h4>I am a very social person who learns fast and adapts easily. I enjoy learning and challenging myself with new technologies and projects. I'm currently learning how to develop web sites with React JS, Javascript, HTML and CSS; how to program and develop videogames with Unity, and how to use technologies as Docker and Kubernetes. I've worked on relational databases with SQL Server and Oracle SQL. I have some experience in Python, Java, C++, C#, SQL, Git, React and Javascript. You can check some of my work on my repositories. I'm looking to collaborate on projects from different areas to learn as much as possible about technology and software development in order to become the best professional I can be.</h4>
+<h4>I am a very social person who learns fast and adapts easily. I enjoy learning and challenging myself with new technologies and projects. 
+  
+I'm currently learning how to develop machine learning solutions using Python Libraries such as Pytorch and Scikit-learn; and managing data with Pandas, Numpy and Matplotlib. I've worked on relational databases with SQL Server, My SQL, MariaDB and Oracle SQL; and on No-SQL databases like Firebase and MongoDB. I also have experience in Python, React, JavaScript, TypeScript, Java, C++, C# and tools like Git, Unity, Visual Studio Code and Jetbrains IDEs. On the other hand, I have experience with container technologies such as Docker and Kubernetes. 
+
+You can check some of my work on my repositories. I'm looking to collaborate on projects from different areas to learn as much as possible about technology and software development in order to become the best professional I can be.</h4>
 
 <h3>How to reach me:</h3>
 <h4>Email: isaac4918@gmail.com</h4>
