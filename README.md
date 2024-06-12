@@ -2,6 +2,7 @@
 <h3>I'm a Software Engineering Student in the Costa Rican Institute of Technology.</h3>
 
 <h4>I am a very social person who learns fast and adapts easily. I enjoy learning and challenging myself with new technologies and projects. 
+
   
 I'm currently learning how to develop machine learning solutions using Python Libraries such as Pytorch and Scikit-learn; and managing data with Pandas, Numpy and Matplotlib. I've worked on relational databases with SQL Server, My SQL, MariaDB and Oracle SQL; and on No-SQL databases like Firebase and MongoDB. I also have experience in Python, React, JavaScript, TypeScript, Java, C++, C# and tools like Git, Unity, Visual Studio Code and Jetbrains IDEs. On the other hand, I have experience with container technologies such as Docker and Kubernetes. 
 
