@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Isaac Araya
 
-I'm a Software Engineering student and aspiring Python developer from Costa Rica, currently working as a Software Engineering Intern at Schneider Electric.
+I'm a Junior Software Engineer from Costa Rica, currently working as a Software Engineering Intern at Schneider Electric.
 
-I'm passionate about building solutions that combine backend technologies, data processing, and automation. I enjoy solving problems with code, learning new tools, and contributing to clean, maintainable software.
+I'm passionate about building solutions that combine frontend and backend technologies, data processing, and automation. I enjoy solving problems with code, learning new tools, and contributing to clean, maintainable software.
 
 ## 🧠 What I'm working on
 
