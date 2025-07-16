@@ -1,5 +1,5 @@
 <h1>Hi there!👋🏾 I'm Isaac!</h1>
-<h3>I'm a Software Engineering Student in the Costa Rican Institute of Technology.</h3>
+<h3>I'm a Junior Software Engineer.</h3>
 
 <h4>I am a very social person who learns fast and adapts easily. I enjoy learning and challenging myself with new technologies and projects. 
 
