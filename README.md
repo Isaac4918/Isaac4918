@@ -7,7 +7,6 @@ I'm passionate about building solutions that combine backend technologies, data 
 ## 🧠 What I'm working on
 
 - Developing a full-stack internal web application using Angular and Java Spring Boot at Schneider Electric.
-- Exploring web scraping using tools like **Selenium**, **BeautifulSoup**, and **Requests**.
 - Practicing data extraction, transformation and automation techniques.
 - Building side projects involving **APIs**, **cloud deployment**, and **containerization** with **Docker**.
 
@@ -22,8 +21,7 @@ I'm passionate about building solutions that combine backend technologies, data 
 
 ## 🌱 Currently learning
 
-- Web scraping strategies, headless browsing, and dealing with anti-bot mechanisms.
-- Writing testable and maintainable Python code.
+- AI Application Development in Azure.
 - Cloud services and CI/CD practices.
 
 ## 🤝 Let's connect
